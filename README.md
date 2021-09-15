@@ -14,10 +14,14 @@ Teman Hemat also presents your incomes and expenses in detail : <br><br>
 In the project directory, you can :
 
 1) Install dependencies :
-### `yarn`
+```
+yarn
+```
 
 2) Run this app on your browser :
-### `yarn start`
+```
+yarn start
+```
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
