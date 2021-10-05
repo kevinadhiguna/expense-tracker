@@ -1,12 +1,12 @@
-# Teman Hemat
+# Expense Tracker
 
 <h4>💵 An expense tracker that helps you managing your financial, powered by React</h4>
 Teman Hemat also persists your incomes and expenses as it saves your input to your browser's local storage, so feel free to refresh the tab :)
 
 ## Demo
-This is how Teman Hemat looks : <br><br>
+This is how Expense Tracker looks : <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/teman-hemat/master/demo/1.png" width="90%"></img> <br><br>
-Teman Hemat also presents your incomes and expenses in detail : <br><br>
+Expense Tracker also presents your incomes and expenses in detail : <br><br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/teman-hemat/master/demo/2.png" width="90%"></img>
 
 ## How to Run :
