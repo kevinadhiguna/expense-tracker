@@ -1,14 +1,17 @@
-name: CI
+name: Continous Integration (CI)
 
 on:
   push:
     branches: ["staging"]
+  pull_request:
+    branches: ["master"]
 
 jobs:
-  xplore:
+  explore-github-action:
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
+        # For more : https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions#github-hosted-runners
         os: [windows-2022, ubuntu-20.04, macos-11]
       fail-fast: true
     steps:
