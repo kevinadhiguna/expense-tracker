@@ -1,22 +1,16 @@
 # Expense Tracker
 
-<h4>💵 An expense tracker that helps you managing your financial, powered by React</h4>
+<h4>💵 An expense tracker that helps you managing your financial, powered by React.js</h4>
 
 It also persists your incomes and expenses as it saves your input to your browser's local storage, so feel free to refresh the tab :)
 
 <br>
 
-## Demo
+## Preview
 
 This is how Expense Tracker looks:
 
-<img src="demo/1.png" width="90%"></img>
-
-<br>
-
-Expense Tracker also presents your incomes and expenses in detail:
-
-<img src="demo/2.png" width="90%"></img>
+<img src="demo/main-page-s.png" alt="main page" />
 
 <br>
 
@@ -24,19 +18,20 @@ Expense Tracker also presents your incomes and expenses in detail:
 
 In the project directory, you can :
 
-1) Install dependencies :
+1. Install dependencies :
+
 ```
 yarn
 ```
 
-2) Run this app on your browser :
+2. Run this app in a browser :
+
 ```
 yarn start
 ```
 
-Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in a browser.
 
 <br>
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/expense-tracker)](https://github.com/kevinadhiguna)
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=expense-tracker&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
