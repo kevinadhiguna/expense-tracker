@@ -14,6 +14,12 @@ This is how Expense Tracker looks:
 
 <br>
 
+## Prerequisites
+
+- [Node.js v16+](https://nodejs.org/en/download)
+
+<br>
+
 ## How to Run
 
 In the project directory, you can :
